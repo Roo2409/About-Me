@@ -13,7 +13,7 @@ Successful Projects :
 
 -Computer Vision Rock-Paper-Scissors (RPS) project : •Trained a computer vision model that detected gestures in real-time.•Created a Python script to apply the programming logic using Tensorflow API and open CV.
 
--Data Centralisation project, transforming and analysing large datasets from multiple data sources. By utilising the power of Pandas, clean the data, and produce a STAR based database schema for optimised data storage and access. The project also builds complex SQL-based data queries, allowing to extract valuable insights and make informed decisions. This project provide the user with the experience of building a real-life complete data solution, from data acquisition to analysis, all in one place.
+-Data Centralisation project : Transforming and analysing large datasets from multiple data sources. By utilising the power of Pandas, clean the data, and produce a STAR based database schema for optimised data storage and access. The project also builds complex SQL-based data queries, allowing to extract valuable insights and make informed decisions. This project provide the user with the experience of building a real-life complete data solution, from data acquisition to analysis, all in one place.
 
 SKILLS:
 
