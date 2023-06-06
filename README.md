@@ -1,5 +1,5 @@
 # About-Me
-Hi there 👋 This repository will take you to my journey of becoming a Software Engineer.
+Hi there 👋 This repository will take you to my journey of becoming a Software Engineer/Data Engineer/Data Analyst.
 
 My name is Roobi Kapoor, making a career transition into Data Science. I love all things about technology, changing how an organisation operate business. With a passion for leveraging data to drive insights and decision-making. I have experience in various aspects of the data science lifecycle, including data collection, pre-processing, modeling, and visualization.
 
