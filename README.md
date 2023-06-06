@@ -8,6 +8,7 @@ Analytical and detailed-oriented professional with over 8 years of experience, I
 I am committed to staying at the forefront of industry trends and techniques and have completed numerous courses and certifications in data science, statistics, and machine learning. I am also proficient in a range of data analysis tools and programming languages, including Python, SQL, Tableau
 
 Successful Projects :
+
 -Movie Assistant: •Applied basic and advanced concepts of python that read data extracted from IMDB and displayed to the user different requested information.•Used concepts such as functions and error handling to make the code cleaner and more robust.
 
 -Computer Vision Rock-Paper-Scissors (RPS) project : •Trained a computer vision model that detected gestures in real-time.•Created a Python script to apply the programming logic using Tensorflow API and open CV.
